@@ -20,14 +20,6 @@
 * dir_block
   - utter_direc
 
-## website path
-* greet
-  - utter_greet
-* sug
-  - utter_sugg
-* website
-  - utter_web
-
 ## cs path
 * greet
   - utter_greet
@@ -103,7 +95,7 @@
 * deny
   - utter_cheer_up
 
-## min path
+## lib path
 * greet
   - utter_greet
 * sug
@@ -216,14 +208,13 @@
 * new_college
   - utter_abt
 
-## trs_path
+## tran_path
 * greet
   - utter_greet
 * sug
   - utter_sugg
-* trans_college
-  - utter_trans
-  - utter_did_that_help
+* tran_coll
+  - utter_transp
 * affirm
   - utter_happy
 * deny
@@ -332,8 +323,7 @@
 * know_more
   - utter_know
 * Alumni
-  - utter_alumni
-  - utter_web  
+  - utter_alumni  
 
 ## IEEE_path
 * greet
@@ -354,7 +344,6 @@
   - utter_know
 * a_r
   - utter_ar
-  - utter_web
 
 ## anti_ragging path
 * greet
@@ -379,7 +368,6 @@
   - utter_csec
   - utter_csef
   - utter_cseap
-  - utter_web
 
 ## campuslife_path
 * greet
@@ -392,7 +380,6 @@
   - utter_events
   - utter_if
   - utter_gallery
-  - utter_web
 
 ## admissionprocess_path
 * greet
@@ -463,9 +450,6 @@
   - utter_academics
 * Accreditation
   - utter_accre 
-  - utter_accr
-  - utter_acc
-  - utter_acci  
 
 ## exam_path
 * greet
@@ -585,13 +569,10 @@
 * incubation
   - utter_cie
   - utter_nisp
-  - utter_sups
   - utter_ciecor
   - utter_ciead
   - utter_entr
   - utter_iaf
-  - utter_cii
-  - utter_ipr
   - utter_actcal
 
 ## cse_path   
@@ -618,7 +599,7 @@
   - utter_depart
 * aiml_detail
   - utter_mlhod
-  - utter_mlweb  
+  - utter_aiweb  
 
 ## it_path   
 * greet
@@ -715,79 +696,6 @@
   - utter_events
   - utter_if
   - utter_gallery
-  - utter_web
-
-## csehod_path
-* greet
-  - utter_greet
-* sug
-  - utter_sugg
-* csehod
-  - utter_chod  
-
-## aihod_path
-* greet
-  - utter_greet
-* sug
-  - utter_sugg
-* aihod
-  - utter_mlhod  
-
-## ecehod_path
-* greet
-  - utter_greet
-* sug
-  - utter_sugg
-* ecehod
-  - utter_ecehod
-
-## eeehod_path
-* greet
-  - utter_greet
-* sug
-  - utter_sugg
-* eeehod
-  - utter_eeehod
-
-## mechhod_path
-* greet
-  - utter_greet
-* sug
-  - utter_sugg
-* mechhod
-  - utter_mehod
-
-## cehod_path
-* greet
-  - utter_greet
-* sug
-  - utter_sugg
-* cehod
-  - utter_civilhod
-
-## mbahod_path
-* greet
-  - utter_greet
-* sug
-  - utter_sugg
-* mbahod
-  - utter_mbahod
-
-## freshhod_path
-* greet
-  - utter_greet
-* sug
-  - utter_sugg
-* freshmanhod
-  - utter_freshhod
-
-## ithod_path
-* greet
-  - utter_greet
-* sug
-  - utter_sugg
-* ithod
-  - utter_ithod           
 
 ## ciegaller_path
 * greet

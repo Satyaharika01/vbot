@@ -11,7 +11,7 @@ intents:
   - fee_structure
   - branch_college
   - plac_college
-  - trans_college
+  - tran_coll
   - dir_vardhaman
   - dir_block
   - cse_it_admin
@@ -27,7 +27,6 @@ intents:
   - cstad
   - mba
   - know_more
-  - website
   - bot_challenge
   - other_questions
   - vard_rules
@@ -70,15 +69,6 @@ intents:
   - thib
   - tie
   - wf
-  - csehod
-  - aihod
-  - ithod
-  - eeehod
-  - ecehod
-  - mechhod
-  - cehod
-  - mbahod
-  - freshmanhod
   - ciegallery
 
 responses:
@@ -95,7 +85,7 @@ responses:
     - title: "Direction to blocks"
       payload: "/dir_block"
     - title: "Departments"
-      payload: "/depar_colle"
+      payload: "/branch_college"
     - title: "Academics"
       payload: "/academics"
     - title: "Admissions"
@@ -103,7 +93,7 @@ responses:
     - title: "Incubation"
       payload: "/incubation"
     - title: "Transport"
-      payload: "/trans_college"
+      payload: "/tran_coll"
     - title: "Campus initiative"
       payload: "/campus_int"
     - title: "Research"
@@ -166,7 +156,7 @@ responses:
     - title: "Computer Science Engineering"
       payload: "/Cse_detail"
     - title: "Computer Science Engineering(AI and ML)"
-      payload: "ai_detail"
+      payload: "/aiml_detail"
     - title: "Information technology"
       payload: "/It_detail"
     - title: "Electrical and Electronics Engineering"
@@ -184,9 +174,6 @@ responses:
 
   utter_link:
   - text: "Please click link to continue: [Opening & Closing Rank:](https://collegedunia.com/college/19133-vardhaman-college-of-engineering-vce-hyderabad/cutoff)"
-
-  utter_web:
-  - text: "For more information please click link to continue: [College Website](https://vardhaman.org/)"
 
   utter_pla:
   - text: "Please click link to continue: [Placements Info](https://vardhaman.org/placement-status/)"
@@ -221,7 +208,7 @@ responses:
   utter_cstade:
   - text: "Please click link to continue: [CRICKET STADIUM]( https://goo.gl/maps/u7E3GLiFshNbiYZm9)"
 
-  utter_trans:
+  utter_transp:
   - text: "Please click link to continue: [TRANSPORT](https://vardhaman.org/transport/)"
 
   utter_dv:
@@ -293,7 +280,7 @@ responses:
   utter_cseroh:
   - text: "Please click link to continue: [CSE Role of Honour](https://vardhaman.org/role-of-honour/)"
 
-  utter_mlweb:
+  utter_aiweb:
   - text: "Please click link to continue: [CSE (AI & ML) Website](https://vardhaman.org/cseartificial-intelligence-and-machine-learning/)"
 
   utter_mlhod:
@@ -397,16 +384,7 @@ responses:
   - text: "Please click link to continue: [Courses/Syllabus]( https://vardhaman.org/courses-syllabus-2/)"
 
   utter_accre:
-  - text: "Please click link to continue: [NAAC](https://vardhaman.org/naac/)"
-
-  utter_accr:
-  - text: "Please click link to continue: [NIRF](https://vardhaman.org/nirf/)"
-
-  utter_acc:
-  - text: "Please click link to continue: [NBA](https://vardhaman.org/nba/)"
-
-  utter_acci:
-  - text: "Please click link to continue: [UGC](https://vardhaman.org/ugc/)"
+  - text: "Vardhaman College has NAAC, NIRF, NBA, UGC Accreditation."
 
   utter_exam:
   - text: "Please click link to continue: [Examinations](https://vardhaman.org/examinations/)"
@@ -465,14 +443,14 @@ responses:
   utter_ieee:
   - text: "Please click link to continue: [IEEE Vardhaman Student Branch](https://ieeevardhaman.org/)"
 
+  utter_actcal:
+  - text: "Please click link to continue:[INCUBATION](https://vardhaman.org/?s=Incubation)"
+
   utter_cie:
   - text: "Please click link to continue: [Center for innovation and entrepreneurship (CIE)](https://vardhaman.org/centre-for-innovation-and-entrepreneurship/)"
 
   utter_nisp:
   - text: "Please click link to continue: [NISP](https://vardhaman.org/national-innovation-and-start-up-policy/)"
-
-  utter_sups:
-  - text: "Please click link to continue: [Startups](https://vardhaman.org/startups-on-campus/)"
 
   utter_ciecor:
   - text: "Please click link to continue: [CIE Core Team](https://vardhaman.org/core-team/)"
@@ -485,15 +463,6 @@ responses:
 
   utter_iaf:
   - text: "Please click link to continue: [Incubation Application Form](https://vardhaman.org/wp-content/uploads/2021/04/Incubation-Application-Form.pdf)"
-
-  utter_cii:
-  - text: "Please click link to continue: [CIE Policy](https://vardhaman.org/wp-content/uploads/2021/04/Centre-for-Innovation-and-Entrepreneurship.pdf)"
-
-  utter_ipr:
-  - text: "Please click link to continue: [IPR Policy](https://vardhaman.org/wp-content/uploads/2021/04/IPR.pdf)"
-
-  utter_actcal:
-  - text: "Please click link to continue:[IIC 2020-21 Activity Calendar](https://vardhaman.org/wp-content/uploads/2020/12/IIC-2020-21.pdf)"
 
   utter_ciegallery:
   - text: "Please click link to continue: [CIE Gallery](https://vardhaman.org/gallery-2/)"

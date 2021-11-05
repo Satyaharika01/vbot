@@ -93,10 +93,8 @@
 
 ## intent:branch_college
 - departments
-- what are the different departments
 - what are the different departments in college
 - what are the different departments of vardhaman college of Engineering
-- what are the departments in College
 - what departments are present in the College
 - what are the different departments in vmeg
 - what are the branches.
@@ -110,7 +108,7 @@
 - are the placements good in vardhaman college of enigineering
 - what are the companies visiting vardhaman college of Engineering
 
-## intent:trans_college
+## intent:tran_coll
 - transport facility
 - transport
 - what is the transport available to reach the College
@@ -123,8 +121,6 @@
 - vardhaman college
 - where is vardhaman
 - where is college
-- dir to vardhaman college
-- dir to VMEG
 - where is vmeg
 - direction to campus
 - direct to vardhman college
@@ -228,6 +224,7 @@
 - directions to pat
 - how to go to pat
 - pat
+- directions to pat block
 
 ## intent:hostel
 - directions to hostel
@@ -255,10 +252,6 @@
 ## intent:know_more
 - know more
 - display more about college
-
-## intent:website
-- website
-- college website
 
 ## intent:bot_challenge
 - are you a bot?
@@ -467,20 +460,15 @@
 ## intent:aiml_detail
 - cse(ai and ml)
 - CSE (AI and ML)
-- ai
-- ml
 - artificial intelligence
 - machine learning
-- details about ai
 - details about artificial intelligence
 - artificial intelligence Website
-- ai website
 - ai hod and Faculty
 - artificial intelligence hod and faculty
 - details about ml
 - details about machine learning
 - machine learning Website
-- ml website
 - ml hod and Faculty
 - machine learning hod and faculty
 - details about ai and  ml
@@ -580,7 +568,6 @@
 
 ## intent:incubation
 - incubation
-- Incubation
 - Center for innovation and entrepreneurship
 - NISP
 - Startups
@@ -607,70 +594,24 @@
 - MSME Business Incubator
 - msme in Vardhaman
 - msme in vmeg
+- msme
 
 ## intent:thib
 - T-Hub(T-Tribe Program)
 - T-Hub in Vardhaman
 - T-Hub in vmeg
+- thub
 
 ## intent:tie
 - TIE GRAD
 - Tie in Vardhaman
 - Tie in vmeg
+- tie
 
 ## intent:wf
 - Wadhwani Foundation
 - Wadhwani Foundation  in Vardhaman
 - Wadhwani Foundation in vmeg
-
-## intent:csehod
-- cse HOD
-- CSE HOD
-- computer science hod
-
-## intent:aihod
-- ai HOD
-- AI HOD
-- ml HOD
-- artificial intelligence HOD
-- machine learning HOD
-- ai and ml hod
-- cse ai and ml hod
-
-## intent:ithod
-- it HOD
-- IT HOD
-- information technology hod
-
-## intent:ecehod
-- ece HOD
-- ECE
-- Electronics and communication Engineering hod
-
-## intent:eeehod
-- eee HOD
-- EEE HOD
-- Electrical and Electronics Engineering hod
-
-## intent:mechhod
-- mech HOD
-- MECH HOD
-- mechanical engineering hod
-
-## intent:cehod
-- ce HOD
-- CIVIL HOD
-- civil hod
-
-## intent:mbahod
-- mba HOD
-- MBA HOD
-- Masters of business management hod
-
-## intent:freshmanhod
-- freshman HOD
-- freshman engineering HOD
-- frehsers block hod
 
 ## intent:ciegallery
 - cie Gallery
