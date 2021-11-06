@@ -712,3 +712,11 @@
   - utter_sugg
 * plac_college  
   - utter_pla
+
+## knowmore_path
+* greet
+  - utter_greet
+* sug
+  - utter_sugg
+* know_more
+  - utter_know
