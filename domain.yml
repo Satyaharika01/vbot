@@ -97,7 +97,7 @@ responses:
     - title: "Campus initiative"
       payload: "/campus_int"
     - title: "Research"
-      payload: "/research_and_consultancy"
+      payload: "/Research"
     - title: "Why Vardhaman College"
       payload: "/why_vardhaman"
     - title: "Principal"

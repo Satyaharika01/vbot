@@ -720,3 +720,11 @@
   - utter_sugg
 * know_more
   - utter_know
+
+## res_path
+* greet
+  - utter_greet
+* sug
+  - utter_sugg
+* Research
+  - utter_res  
