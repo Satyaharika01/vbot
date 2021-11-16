@@ -2,7 +2,7 @@
 * greet
   - utter_greet
 * sug
-  - utter_sugg   
+  - utter_sugg
 
 ## newclg path
 * greet
@@ -10,7 +10,7 @@
 * sug
   - utter_sugg  
 * new_college
-  - utter_abt  
+  - utter_abt
 
 ## direct path
 * greet
@@ -33,7 +33,7 @@
 * affirm
   - utter_happy
 * deny
-  - utter_cheer_up    
+  - utter_cheer_up
 
 ## ec path
 * greet
@@ -183,7 +183,7 @@
 * affirm
   - utter_happy
 * deny
-  - utter_cheer_up   
+  - utter_cheer_up
 
 ## csta_path
 * greet
@@ -269,7 +269,7 @@
 * affirm
   - utter_happy
 * deny
-  - utter_cheer_up    
+  - utter_cheer_up
 
 ## why_var path
 * greet
@@ -313,7 +313,7 @@
 * know_more
   - utter_know
 * dress_code
-  - utter_dresscode   
+  - utter_dresscode
 
 ## alumni_path
 * greet
@@ -323,7 +323,7 @@
 * know_more
   - utter_know
 * Alumni
-  - utter_alumni  
+  - utter_alumni
 
 ## IEEE_path
 * greet
@@ -389,7 +389,7 @@
 * admission
   - utter_admission_cr
 * admission_process
-  - utter_ap  
+  - utter_ap
 
 ## admissioncriteria_path
 * greet
@@ -399,7 +399,7 @@
 * admission
   - utter_admission_cr
 * admission_criteria
-  - utter_acriteria  
+  - utter_acriteria
 
 ## fstructure_path
 * greet
@@ -409,7 +409,7 @@
 * admission
   - utter_admission_cr
 * fee_structure
-  - utter_fe  
+  - utter_fe
 
 ## openingranks_path
 * greet
@@ -429,7 +429,7 @@
 * admission
   - utter_admission_cr
 * UG_PG
-  - utter_ugpg   
+  - utter_ugpg
 
 ## course_path
 * greet
@@ -449,7 +449,7 @@
 * academics
   - utter_academics
 * Accreditation
-  - utter_accre 
+  - utter_accre
 
 ## exam_path
 * greet
@@ -459,7 +459,7 @@
 * academics
   - utter_academics
 * Examinations
-  - utter_exam   
+  - utter_exam
 
 ## academic_calendar_path
 * greet
@@ -469,7 +469,7 @@
 * academics
   - utter_academics
 * Academic_Calendar
-  - utter_ac   
+  - utter_ac
 
 ##  gover_path
 * greet
@@ -479,7 +479,7 @@
 * academics
   - utter_academics
 * Governing_Body
-  - utter_gb  
+  - utter_gb
 
 ## acouncil_path
 * greet
@@ -489,7 +489,7 @@
 * academics
   - utter_academics
 * Academic_Council
-  - utter_aco  
+  - utter_aco
 
 ## res_path
 * greet
@@ -499,7 +499,7 @@
 * academics
   - utter_academics
 * Research
-  - utter_res  
+  - utter_res
 
 ## pdocu_path
 * greet
@@ -509,7 +509,7 @@
 * academics
   - utter_academics
 * Pocily_Documents
-  - utter_pd  
+  - utter_pd
 
 ## iii_path
 * greet
@@ -519,7 +519,7 @@
 * academics
   - utter_academics
 * Industry_Institute_Interaction
-  - utter_iii     
+  - utter_iii
 
 ## msme_path
 * greet
@@ -588,7 +588,7 @@
   - utter_cs_pla
   - utter_csefa
   - utter_csesa
-  - utter_cseroh  
+  - utter_cseroh
 
 ## cseai_path   
 * greet
@@ -599,7 +599,7 @@
   - utter_depart
 * aiml_detail
   - utter_mlhod
-  - utter_aiweb  
+  - utter_aiweb
 
 ## it_path   
 * greet
@@ -703,7 +703,7 @@
 * sug
   - utter_sugg
 * ciegallery
-  - utter_ciegallery  
+  - utter_ciegallery
 
 ## place_path
 * greet
@@ -721,10 +721,10 @@
 * know_more
   - utter_know
 
-## res_path
+## re_path
 * greet
   - utter_greet
 * sug
   - utter_sugg
 * Research
-  - utter_res  
+  - utter_res
