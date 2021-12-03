@@ -5,6 +5,7 @@
 - good morning
 - good evening
 - hey there
+- helo
 
 ## intent:goodbye
 - bye
@@ -57,6 +58,8 @@
 - suggestions
 - what suggestions do you have?
 - sug
+- suggest
+- sugg
 
 ## intent:new_college
 - I am new to college
@@ -127,7 +130,7 @@
 - directions to college
 - direction to vmeg
 
-## intent: dir_block
+## intent:dir_block
 - direction to blocks
 - dir to blocks
 - blocks
@@ -176,10 +179,8 @@
 - direction to civil block
 - direction to mech and civil block
 - direction to mechanical block
-- direction to civil block
 - mechanical block
 - civil  block
-- mechanical block
 - civil block
 - how to go to mech block
 - how to go to civil block
@@ -306,7 +307,6 @@
 - campus life at vmeg
 - how is campus life at vardhaman
 - how is campus life in vmeg
-- campus life
 - infrastructure
 - facilities
 - events
@@ -345,7 +345,7 @@
 - what is the admission criteria
 - admission criteria
 - admission criteria in vardhaman college of engineering
--  admission criteria in vmeg
+- admission criteria in vmeg
 
 ## intent:UG_PG
 - what are the ug and pg courses
@@ -433,7 +433,6 @@
 - civil engineering website
 - ce website
 - civil enigineering
-- civil
 - ce hod and Faculty
 - civil engineering hod and faculty
 - civil placements
@@ -581,7 +580,6 @@
 - IPR Policy
 - IIC 2020-21 Activity Calendar
 - Details about incubation
-- incubation
 - incubation details of VMEG
 - details of incubation in vardhaman college of engineering.
 
